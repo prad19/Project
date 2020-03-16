@@ -1,0 +1,18 @@
+body{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0;
+	padding: 0;
+	background: url(../pink3.jpg);
+	background-size: cover;
+}
+
+.border{
+	width: 200px;
+	height: 6px;
+	background: #e74c3c;
+	margin: 50px auto;
+}
+#aboutus h2{margin-bottom: 25px;}
